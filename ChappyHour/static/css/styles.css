@@ -1,0 +1,19 @@
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.waveBG {
+    min-height: 100vh;
+    background-image: url('../img/waves2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .table td {
+    padding: 1%;
+  }
+
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #4682B4 !important;
+}
